@@ -26,3 +26,5 @@ public class Main
 	 System.out.println( eql(a) );
         }
 }
+// time =O(n)
+// space = (n)
